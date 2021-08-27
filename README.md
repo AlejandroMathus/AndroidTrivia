@@ -17,20 +17,6 @@ tries to eliminate bugs caused by configuration changes.
 The app uses navigation and Safe Args to pass data from one fragment to another, also, it
 utilizes intents to communicate with external apps.
 
-Prerequisites
--------------
-
-You need to know:
-- The fundamentals of Kotlin.
-- How to create basic Android apps in Kotlin.
-- How to open, build, and run apps with Android Studio.
-- How to work with layouts.
-
-Getting started
----------------
-
-1. Download and run the app.
-
 License
 -------
 
